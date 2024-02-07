@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Tyler👋
+
+☕ Currently working on: [Burr Buddy](https://apps.apple.com/us/app/burr-buddy/id1660156811)
 
 <!--
 **tgarben/tgarben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
