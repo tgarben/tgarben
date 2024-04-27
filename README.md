@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tyler
-### iOS Developer | Photographer
-#### Graphic Information Technology | ASU Alumni 
+### iOS Developer | Designer | Photographer
+#### Graphic Information Technology | ASU Alumni 2024 
 
 Continuing to work on personal projects while working within the AVL world. I enjoy staying up to date on all things Apple from their products to their frameworks
 
